@@ -8,8 +8,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoodutra1912@gmail.com?subject=Vim%20do%20GIT&body=Sua%20mensagem%20aqui)
 [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999294413)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brun0dutra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brun0dutra&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brun0dutra&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brun0dutra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style='display: inline_block'></br>
   <img alt='HTML5' aling='center' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
