@@ -19,6 +19,18 @@
 </div>
 
 
+<h3> <img alt='PYTHON' aling='center' src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' width="25"> Criados em Python</h3>
+- Criptografia: https://github.com/brun0dutra/Criptografia
+
+##
+
+<h3> 
+  <img alt='HTML5' aling='center' src='https://img.icons8.com/?size=100&id=46605&format=png&color=000000' width="25">
+  <img alt='CSS' aling='center' src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' width="25"> 
+  <img alt='JAVASCRIPT' aling='center' src='https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000' width="25"> 
+  Criados em HTML,CSS E JAVASCRIPT
+</h3>
+  - Relogios: https://github.com/brun0dutra/Relogios
 
 <!--
 **brun0dutra/brun0dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
