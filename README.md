@@ -15,12 +15,6 @@
     Uso esse espaço para 🛠️ construir projetos reais enquanto 📚 aprendo no processo.
   </p>
   
-  [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunod/)
-  [![Face](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553795012062)
-  [![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dutra-a49854216/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoodutra1912@gmail.com?subject=Vim%20do%20GIT&body=Sua%20mensagem%20aqui)
-  [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999294413)
-
   <div>
     <a href="https://www.instagram.com/brunodut/" target="_blank" rel="noopener noreferrer">
       <img alt="Instagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
