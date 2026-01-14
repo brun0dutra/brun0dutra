@@ -1,8 +1,9 @@
+<!-- TOPO -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Bruno%20Dutra&section=header&textBg=false&animation=blink&fontColor=4dd979)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=07F710&width=900&height=70&lines=Oi%2C+eu+sou+o+Bruno;Aprendendo+a+construir+software;Explorando+ideias+e+sistemas;Trabalhando+no+projeto+Jarvis)](https://git.io/typing-svg)
 
-<div align="center">
+<div>
   <img 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU0ZDFlaDM2aXIwNXkyYmttOTN1eWNkMWhldTZncmlrbm5hOHlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bi9LkFGjPEQ1L2hCpQ/giphy.gif"
     width="200"
@@ -13,15 +14,18 @@
     Sou o Bruno 👋, desenvolvedor curioso por 🧠 sistemas e ⚙️ automação.<br>
     Uso esse espaço para 🛠️ construir projetos reais enquanto 📚 aprendo no processo.
   </p>
+  
+  [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunod/)
+  [![Face](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553795012062)
+  [![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dutra-a49854216/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoodutra1912@gmail.com?subject=Vim%20do%20GIT&body=Sua%20mensagem%20aqui)
+  [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999294413)
+
 </div>
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunod/)
-[![Face](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553795012062)
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dutra-a49854216/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoodutra1912@gmail.com?subject=Vim%20do%20GIT&body=Sua%20mensagem%20aqui)
-[![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999294413)
-
 ---
+
+<!-- HABILIDADES -->
 
 <div>
   
@@ -44,33 +48,29 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brun0dutra&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brun0dutra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!-- PROJETOS -->
 
-<h3> <img alt='PYTHON' aling='center' src='https://img.icons8.com/?size=100&id=121464&format=png&color=000000' width="25"> Criados em Python</h3>
-- Criptografia: https://github.com/brun0dutra/Criptografia
+<div>
+
+  <img 
+      src="https://de18-engine.flamingtext.com/netfu/tmp28001/coollogo_com-11238379.png"
+    />
+
+  <h1> 
+    <img aling='center' src='https://skillicons.dev/icons?i=py' width="50">
+    Criados com Python
+  </h1>
+  
+</div>
+
 
 ##
 
 <h3> 
-  <img alt='HTML5' aling='center' src='https://img.icons8.com/?size=100&id=46605&format=png&color=000000' width="25">
+  <img alt='HTML5' aling='center' src='https://skillicons.dev/icons?i=py' width="25">
   <img alt='CSS' aling='center' src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' width="25"> 
   <img alt='JAVASCRIPT' aling='center' src='https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000' width="25"> 
   Criados em HTML,CSS E JAVASCRIPT
 </h3>
   - Relogios: https://github.com/brun0dutra/Relogios
 
-<!--
-**brun0dutra/brun0dutra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-💬 Espero que algum dos meus projetos tenha te ajudado em algo ! 😄
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
