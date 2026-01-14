@@ -21,6 +21,30 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunoodutra1912@gmail.com?subject=Vim%20do%20GIT&body=Sua%20mensagem%20aqui)
   [![Whats](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553999294413)
 
+  <div>
+    <a href="https://www.instagram.com/brunodut/" target="_blank" rel="noopener noreferrer">
+      <img alt="Instagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
+    </a>
+    <a href="https://www.youtube.com/@brunodutraoficial" target="_blank" rel="noopener noreferrer">
+      <img alt="Youtube" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg"> 
+    </a>
+    <a href="https://www.tiktok.com/@brun0dutra" target="_blank" rel="noopener noreferrer">
+      <img alt="TikTok" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tiktok.svg"> 
+    </a>
+    <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank" rel="noopener noreferrer">
+      <img alt="LinkedIn" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
+    </a>
+    <a href="mailto:brunoodutra1912@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
+    </a>
+    <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank" rel="noopener noreferrer">
+      <img alt="Telegram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Telegram.svg"> 
+    </a>
+    <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank" rel="noopener noreferrer">
+      <img alt="Steam" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Steam.svg"> 
+    </a>
+  </div>
+
 </div>
 
 ---
