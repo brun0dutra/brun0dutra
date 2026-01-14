@@ -56,21 +56,8 @@
       src="https://de18-engine.flamingtext.com/netfu/tmp28001/coollogo_com-11238379.png"
     />
 
-  <h1> 
-    <img aling='center' src='https://skillicons.dev/icons?i=py' width="50">
-    Criados com Python
-  </h1>
-  
+  <img 
+      src="https://de18-engine.flamingtext.com/netfu/tmp28003/coollogo_com-15540840.png"
+    />
+    
 </div>
-
-
-##
-
-<h3> 
-  <img alt='HTML5' aling='center' src='https://skillicons.dev/icons?i=py' width="25">
-  <img alt='CSS' aling='center' src='https://img.icons8.com/?size=100&id=107497&format=png&color=000000' width="25"> 
-  <img alt='JAVASCRIPT' aling='center' src='https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000' width="25"> 
-  Criados em HTML,CSS E JAVASCRIPT
-</h3>
-  - Relogios: https://github.com/brun0dutra/Relogios
-
