@@ -31,10 +31,10 @@
     <a href="mailto:brunoodutra1912@gmail.com" target="_blank" rel="noopener noreferrer">
       <img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
     </a>
-    <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank" rel="noopener noreferrer">
+    <a href="https://t.me/brun0dutra" target="_blank" rel="noopener noreferrer">
       <img alt="Telegram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Telegram.svg"> 
     </a>
-    <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank" rel="noopener noreferrer">
+    <a href="https://steamcommunity.com/id/brun0dutraa" target="_blank" rel="noopener noreferrer">
       <img alt="Steam" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Steam.svg"> 
     </a>
   </div>
