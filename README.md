@@ -1,81 +1,104 @@
-<!-- TOPO -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=000000&text=Bruno%20Dutra&section=header&textBg=false&animation=blink&fontColor=4dd979)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=07F710&width=900&height=70&lines=Oi%2C+eu+sou+o+Bruno;Aprendendo+a+construir+software;Explorando+ideias+e+sistemas;Trabalhando+no+projeto+Jarvis)](https://git.io/typing-svg)
-
-<div>
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXU0ZDFlaDM2aXIwNXkyYmttOTN1eWNkMWhldTZncmlrbm5hOHlwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bi9LkFGjPEQ1L2hCpQ/giphy.gif"
-    width="200"
-    align="right"
-  />
-
-  <p align="left" style="font-family: monospace;">
-    Sou o Bruno 👋, desenvolvedor curioso por 🧠 sistemas e ⚙️ automação.<br>
-    Uso esse espaço para 🛠️ construir projetos reais enquanto 📚 aprendo no processo.
-  </p>
-  
-  <div>
-    <a href="https://www.instagram.com/brunodut/" target="_blank" rel="noopener noreferrer">
-      <img alt="Instagram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Instagram.svg"> 
-    </a>
-    <a href="https://www.youtube.com/@brunodutraoficial" target="_blank" rel="noopener noreferrer">
-      <img alt="Youtube" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Youtube.svg"> 
-    </a>
-    <a href="https://www.tiktok.com/@brun0dutra" target="_blank" rel="noopener noreferrer">
-      <img alt="TikTok" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Tiktok.svg"> 
-    </a>
-    <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank" rel="noopener noreferrer">
-      <img alt="LinkedIn" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Linkedin.svg"> 
-    </a>
-    <a href="mailto:brunoodutra1912@gmail.com" target="_blank" rel="noopener noreferrer">
-      <img alt="Gmail" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Gmail.svg"> 
-    </a>
-    <a href="https://t.me/brun0dutra" target="_blank" rel="noopener noreferrer">
-      <img alt="Telegram" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Telegram.svg"> 
-    </a>
-    <a href="https://steamcommunity.com/id/brun0dutraa" target="_blank" rel="noopener noreferrer">
-      <img alt="Steam" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Steam.svg"> 
-    </a>
-  </div>
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://github.com/brun0dutra/brun0dutra/blob/main/github-header-banner.png?raw=true"  />
 </div>
 
----
+###
 
-<!-- HABILIDADES -->
+<br clear="both">
 
-<div>
-  
-  <img 
-      src="https://de7-engine.flamingtext.com/netfu/tmp28000/flamingtext_com-3871081839.png"
-    />
-
-  [![My Skills](https://skillicons.dev/icons?i=windows,linux,kali)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=vscode,py,html,css,js,git,docker,flask,fastapi,opencv,sklearn,tensorflow,selenium,figma,wordpress)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql,sqlite,postgres,redis)](https://skillicons.dev)<br>
-  [![My Skills](https://skillicons.dev/icons?i=notion,obsidian)](https://skillicons.dev)
-
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3d4cXZyaDZ1Zm1jdzBzMHY2MzRvemg5eGg4cjU5cTE5NW96OGFnayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UvPvsX9oMlMWs/giphy.gif"
-    width="200"
-    align="right"
-  />
-  
+<div data-importer="socials" align="center">
+  <a href="https://www.youtube.com/@brunodutraoficial" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/brunodut/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/brun0dutra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/bruno0dutra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
 </div>
 
----
+###
 
-<!-- PROJETOS -->
+<p data-importer="text" align="center">Sou o Bruno 👋, desenvolvedor curioso por 🧠 sistemas e ⚙️ automação.<br>Uso esse espaço para 🛠️ construir projetos reais enquanto 📚 aprendo no processo.</p>
 
-<div>
+###
 
-  <img 
-      src="https://de18-engine.flamingtext.com/netfu/tmp28001/coollogo_com-11238379.png"
-    />
-
-  <img 
-      src="https://de18-engine.flamingtext.com/netfu/tmp28003/coollogo_com-15540840.png"
-    />
-    
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/brun0dutra/brun0dutra/trophy-output/trophy.svg?theme=monokai&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=brun0dutra&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://raw.githubusercontent.com/brun0dutra/brun0dutra/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="93" alt="languages graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brun0dutra/brun0dutra/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brun0dutra/brun0dutra/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/brun0dutra/brun0dutra/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
