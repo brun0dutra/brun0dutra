@@ -97,6 +97,10 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/brun0dutra/brun0dutra/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="image" align="left" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F6MjE2dXNtY3R4NGVjOTJtazQzdzV0Nm1ja2xwcW1pNDFycjA2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif"  />
+
+###
+
+<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ5Nnhva2c0cThpYXFoMXI5OGFlanF0YjZ2OXRic3B5NXowajZ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif"  />
 
 ###
